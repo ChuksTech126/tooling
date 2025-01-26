@@ -69,5 +69,5 @@ Default web root:
 ```
 /usr/share/nginx/html
 ```
-WE FOR WE
+WE FOR WE stand 4 WE
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
